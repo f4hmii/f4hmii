@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="40" viewBox="0 0 160 40">
+  <style>
+    .name {
+      font-family: ui-monospace, SFMono-Regular, Consolas, "Liberation Mono", Menlo, monospace;
+      font-size: 32px;
+      font-weight: bold;
+      animation: slide 3s ease-in-out infinite alternate;
+    }
+    /* Mengikuti tema warna GitHub secara otomatis */
+    @media (prefers-color-scheme: dark) {
+      .name { fill: #c9d1d9; }
+    }
+    @media (prefers-color-scheme: light) {
+      .name { fill: #24292f; }
+    }
+    @keyframes slide {
+      0% { transform: translateX(100px); opacity: 0; }
+      20% { opacity: 1; }
+      100% { transform: translateX(0px); opacity: 1; }
+    }
+  </style>
+  <text x="0" y="30" class="name">ZULFAHMI</text>
+</svg>
