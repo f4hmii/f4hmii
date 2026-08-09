@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="160" height="40" viewBox="0 0 160 40">
+<svg xmlns="http://www.w3.org/2000/svg" width="280" height="38" viewBox="0 0 280 38">
   <style>
     .name {
       font-family: ui-monospace, SFMono-Regular, Consolas, "Liberation Mono", Menlo, monospace;
@@ -14,7 +14,7 @@
       .name { fill: #24292f; }
     }
     @keyframes slide {
-      0% { transform: translateX(100px); opacity: 0; }
+      0% { transform: translateX(80px); opacity: 0; }
       20% { opacity: 1; }
       100% { transform: translateX(0px); opacity: 1; }
     }

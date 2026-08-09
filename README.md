@@ -2,7 +2,7 @@
   <!-- Ganti link gambar di bawah ini dengan link GIF/gambar pixel art tangan yang kamu inginkan -->
   <img src="https://i.pinimg.com/originals/5c/b6/2a/5cb62a1329d4944d1880a67123f1406e.gif" width="100%" />
 
-  <h1><samp>Hi 👋, Imma </samp><img src="zulfahmi.svg" height="40" alt="ZULFAHMI" /></h1>
+  <h1><samp>Hi 👋, Imma </samp><img src="zulfahmi.svg" align="absmiddle" alt="ZULFAHMI" /></h1>
   <h3><samp>Fullstack Developer</samp></h3>
   <code>Just Code It</code>
   <p><samp>Building reliable web and mobile applications with clean architecture and scalable solutions.</samp></p>
