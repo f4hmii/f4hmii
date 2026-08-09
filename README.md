@@ -13,7 +13,7 @@
 <h2 align="center"><samp>🚀 About Me</samp></h2>
 
 <!-- Ganti link gambar di bawah ini dengan GIF astronaut yang kamu inginkan -->
-<img align="right" width="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2pxbGNsZnhmNGU3OXdpeWhrM216ZGN4bjU1am5vNXJldzV3bHlxdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LpwBqCorPvZC0/giphy.gif" alt="Astronaut">
+<img align="right" width="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTRjNDVyeW1iYndzeHhnMWUyb3lxZnJidDI0cWQ5bmYzcnNncnJsciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Astronaut">
 
 <p><samp><b>ZULFAHMI</b>, Here — an Information Systems student focused on Fullstack Development.</samp></p>
 
