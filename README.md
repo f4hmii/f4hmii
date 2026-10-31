@@ -2,7 +2,7 @@
   <!-- Ganti link gambar di bawah ini dengan link GIF/gambar pixel art tangan yang kamu inginkan -->
   <img src="https://i.pinimg.com/originals/5c/b6/2a/5cb62a1329d4944d1880a67123f1406e.gif" width="100%" />
 
-  <h1><samp>Hi 👋, Imma </samp><img src="zulfahmi.svg" align="absmiddle" alt="ZULFAHMI" /></h1>
+  <h1><img src="zulfahmi.svg" align="absmiddle" alt="ZULFAHMI" /></h1>
   <h3><samp>Fullstack Developer</samp></h3>
   <code>Just Code It</code>
   <p><samp>Building reliable web and mobile applications with clean architecture and scalable solutions.</samp></p>
@@ -10,7 +10,7 @@
 
 ---
 
-<h2 align="center"><samp>🚀 About Me</samp></h2>
+<h2 align="center"><samp> About Me</samp></h2>
 
 <!-- Ganti link gambar di bawah ini dengan GIF astronaut yang kamu inginkan -->
 <img align="right" width="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTRjNDVyeW1iYndzeHhnMWUyb3lxZnJidDI0cWQ5bmYzcnNncnJsciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Astronaut">
@@ -27,7 +27,7 @@
 
 ---
 
-<h2 align="center"><samp>🤝 Connect</samp></h2>
+<h2 align="center"><samp>Connect</samp></h2>
 <div align="center">
   <a href="https://github.com/f4hmii"><img src="https://skillicons.dev/icons?i=github" /></a>
   <a href="https://www.linkedin.com/in/zulfahmi-2b6561325"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
@@ -36,7 +36,7 @@
 
 ---
 
-<h2 align="center"><samp>💻 Tech Stack</samp></h2>
+<h2 align="center"><samp>Tech Stack</samp></h2>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=php,dart,js,nodejs,laravel,flutter,react,tailwind" /><br>
   <br>
@@ -45,14 +45,14 @@
 
 ---
 
-<h2 align="center"><samp>📊 GitHub Stats</samp></h2>
+<h2 align="center"><samp>📊GitHub Stats</samp></h2>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=f4hmii&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
 
-<h2 align="center"><samp>📈 Activity Graph</samp></h2>
+<h2 align="center"><samp>Activity Graph</samp></h2>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=f4hmii&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true&title_color=ffffff&axes_color=ffffff" />
 </div>
