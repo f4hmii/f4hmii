@@ -9,10 +9,6 @@
 </div>
 
 ---
-<a href="https://www.avivashishta.com/projects"><img src="./cards/build.svg" width="32.5%" /></a>
-<a href="https://www.avivashishta.com/brands"><img src="./cards/brand.svg" width="32.5%" /></a>
-<a href="https://www.avivashishta.com/blog"><img src="./cards/learn.svg" width="32.5%" /></a>
-
 <h2 align="center"><samp> About Me</samp></h2>
 
 <!-- Ganti link gambar di bawah ini dengan GIF astronaut yang kamu inginkan -->
